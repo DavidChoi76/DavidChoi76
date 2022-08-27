@@ -12,6 +12,20 @@ I did my PhD from 2017 to 2021 at UVA Hydroinformatics research group (https://u
 
 3. 👯 Rainfall Distribution using Stellite Rainfall
 
+4. 🔭 Downscaling for Climate Change Applications
+ - https://github.com/DavidChoi76/CCdownscaling
+
 ## :nerd_face: Links :thinking:
 1. Dissertation (https://doi.org/10.18130/g9tg-0c69)
 2. Google Scholar (https://scholar.google.com/citations?hl=ko&user=VCyCE5QAAAAJ&view_op=list_works&sortby=pubdate)
+
+
+## :nerd_face: Interested Areas :thinking:
+1. Weights and Biases: https://github.com/DavidChoi76/examples
+2. Google Earth Engine
+  - eeMont: https://github.com/DavidChoi76/eemont
+3. ML for classification of proteins: https://github.com/DavidChoi76/Retraining_Notebook
+4. 
+5. 
+6. 
+7. 
