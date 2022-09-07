@@ -7,51 +7,39 @@ I did my PhD from 2017 to 2021 at UVA Hydroinformatics research group (https://u
 
 ## :nerd_face: Research Area :thinking:
 1. 🔭 Analyze dam inflow and river water level using AI
-
 2. 🌱 Image segmentation
  - (Kera-U-Net) https://github.com/DavidChoi76/keras-unet-collection.git
-
 3. 👯 Rainfall Distribution using Stellite Rainfall
-
 4. 🔭 Downscaling for Climate Change Applications
  - https://github.com/DavidChoi76/CCdownscaling
- 
 5. Time Series Analysis
  - (Dart) https://github.com/DavidChoi76/darts.git
  - https://github.com/DavidChoi76/time-series-forecasting-with-python.git
- 
 6. Data Assimilation
  - (DAPPER) https://github.com/DavidChoi76/DAPPER.git
  - https://github.com/DavidChoi76/DA-tutorials.git
- 
 7. Streamlit Development
  - https://github.com/DavidChoi76/streamlit-water.
  - https://github.com/DavidChoi76/streamlit-geospatial.git 
-
 8. Reinforcement learning
  - https://github.com/DavidChoi76/reinforcement-learning-1.git
- 
 9. Neural Hydrology
  - https://github.com/DavidChoi76/Caravan.git
  - https://github.com/DavidChoi76/lstm-data-assimilation.git
  - https://github.com/DavidChoi76/neuralhydrology.git
- 
 10. Flood
  - https://github.com/DavidChoi76/ml4floods.git
  - https://github.com/DavidChoi76/Flood-Detection-from-Images-using-Deep-Learning.git
  - https://github.com/DavidChoi76/atlantis.git
- 
 11. Stormwater network
  - https://github.com/DavidChoi76/pipedream.git
  - https://github.com/DavidChoi76/pystorms.git
- 
 12. Data Quality Control
  -  https://github.com/DavidChoi76/pyhydroqc.git
  
 ## :nerd_face: Links :thinking:
 1. Dissertation (https://doi.org/10.18130/g9tg-0c69)
 2. Google Scholar (https://scholar.google.com/citations?hl=ko&user=VCyCE5QAAAAJ&view_op=list_works&sortby=pubdate)
-
 
 ## :nerd_face: Interested Areas :thinking:
 1. Weights and Biases(Explainable AI)
