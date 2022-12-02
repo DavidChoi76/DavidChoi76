@@ -23,6 +23,8 @@ I did my PhD from 2017 to 2021 at UVA Hydroinformatics research group (https://u
  - https://github.com/DavidChoi76/streamlit-geospatial.git 
 8. Reinforcement learning
  - https://github.com/DavidChoi76/reinforcement-learning-1.git
+ - https://github.com/DavidChoi76/Deep-Reinforcement-Learning-With-Python.git
+ - https://github.com/DavidChoi76/deep-rl-class.git
 9. Neural Hydrology
  - https://github.com/DavidChoi76/Caravan.git
  - https://github.com/DavidChoi76/lstm-data-assimilation.git
