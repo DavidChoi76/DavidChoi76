@@ -64,5 +64,10 @@ I did my PhD from 2017 to 2021 at UVA Hydroinformatics research group (https://u
  - https://github.com/DavidChoi76/EASYMORE.git
  - https://github.com/DavidChoi76/Satip.git
 
+## :nerd_face: Sharing :thinking:
+1. Hugging face
+ - scikit-learn: https://github.com/DavidChoi76/skops.git
+
 ## :nerd_face: Focusing :thinking:
-1. NLP study: https://github.com/DavidChoi76/2022_fall_nlp_do_it.git
+1. TADA: Talk About Data Analytics https://github.com/tadatascience
+2. NLP study: https://github.com/DavidChoi76/2022_fall_nlp_do_it.git
