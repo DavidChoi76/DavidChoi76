@@ -36,6 +36,8 @@ I did my PhD from 2017 to 2021 at UVA Hydroinformatics research group (https://u
  - https://github.com/DavidChoi76/ml4floods.git
  - https://github.com/DavidChoi76/Flood-Detection-from-Images-using-Deep-Learning.git
  - https://github.com/DavidChoi76/atlantis.git
+ - https://github.com/DavidChoi76/Global-Flood-Monitor.git
+ - https://github.com/DavidChoi76/Multimodal-flood-tweet-classification.git
 11. Stormwater network
  - https://github.com/DavidChoi76/pipedream.git
  - https://github.com/DavidChoi76/pystorms.git
