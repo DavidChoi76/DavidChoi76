@@ -15,6 +15,9 @@ I did my PhD from 2017 to 2021 at UVA Hydroinformatics research group (https://u
 5. Time Series Analysis
  - (Dart) https://github.com/DavidChoi76/darts.git
  - https://github.com/DavidChoi76/time-series-forecasting-with-python.git
+ - https://github.com/DavidChoi76/neural_prophet.git
+ - https://github.com/DavidChoi76/forecastr.git
+ - https://github.com/DavidChoi76/neural_prophet.git
 6. Data Assimilation
  - (DAPPER) https://github.com/DavidChoi76/DAPPER.git
  - https://github.com/DavidChoi76/DA-tutorials.git
