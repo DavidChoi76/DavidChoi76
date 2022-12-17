@@ -23,7 +23,8 @@ I did my PhD from 2017 to 2021 at UVA Hydroinformatics research group (https://u
  - https://github.com/DavidChoi76/DA-tutorials.git
 7. Streamlit Development
  - https://github.com/DavidChoi76/streamlit-water.
- - https://github.com/DavidChoi76/streamlit-geospatial.git 
+ - https://github.com/DavidChoi76/streamlit-geospatial.git
+ - https://github.com/sashamitrovich/Streamlit-Snowflake.git
 8. Reinforcement learning
  - https://github.com/DavidChoi76/reinforcement-learning-1.git
  - https://github.com/DavidChoi76/Deep-Reinforcement-Learning-With-Python.git
