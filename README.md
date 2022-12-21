@@ -9,6 +9,8 @@ I did my PhD from 2017 to 2021 at UVA Hydroinformatics research group (https://u
 1. 🔭 Analyze dam inflow and river water level using AI
 2. 🌱 Image segmentation
  - (Kera-U-Net) https://github.com/DavidChoi76/keras-unet-collection.git
+ - https://github.com/DavidChoi76/segmentation_models.pytorch.git
+ - https://github.com/DavidChoi76/segmentation_gym.git
 3. 👯 Rainfall Distribution using Stellite Rainfall
 4. 🔭 Downscaling for Climate Change Applications
  - https://github.com/DavidChoi76/CCdownscaling
@@ -18,17 +20,29 @@ I did my PhD from 2017 to 2021 at UVA Hydroinformatics research group (https://u
  - https://github.com/DavidChoi76/neural_prophet.git
  - https://github.com/DavidChoi76/forecastr.git
  - https://github.com/DavidChoi76/streamlit_prophet.git
+ - https://github.com/DavidChoi76/timeseries-rnn.git
+ - https://github.com/DavidChoi76/forecastr.git
+ - https://github.com/DavidChoi76/ETC3550Slides.git
 6. Data Assimilation
  - (DAPPER) https://github.com/DavidChoi76/DAPPER.git
  - https://github.com/DavidChoi76/DA-tutorials.git
+ - https://github.com/DavidChoi76/lstm-data-assimilation.git
 7. Streamlit Development
  - https://github.com/DavidChoi76/streamlit-water.
  - https://github.com/DavidChoi76/streamlit-geospatial.git
  - https://github.com/sashamitrovich/Streamlit-Snowflake.git
+ - https://github.com/DavidChoi76/best-of-streamlit.git
+ - https://github.com/DavidChoi76/30days.git
+ - 
 8. Reinforcement learning
  - https://github.com/DavidChoi76/reinforcement-learning-1.git
  - https://github.com/DavidChoi76/Deep-Reinforcement-Learning-With-Python.git
  - https://github.com/DavidChoi76/deep-rl-class.git
+ - https://github.com/DavidChoi76/Platypus.git
+ - https://github.com/DavidChoi76/reinforcement-learning.git
+ - https://github.com/DavidChoi76/skimo.git
+ <Operation>
+ - https://github.com/DavidChoi76/VICResOpt.git
 9. Neural Hydrology
  - https://github.com/DavidChoi76/Caravan.git
  - https://github.com/DavidChoi76/lstm-data-assimilation.git
@@ -42,8 +56,17 @@ I did my PhD from 2017 to 2021 at UVA Hydroinformatics research group (https://u
 11. Stormwater network
  - https://github.com/DavidChoi76/pipedream.git
  - https://github.com/DavidChoi76/pystorms.git
+ - https://github.com/DavidChoi76/swmm_wq_rl.git
 12. Data Quality Control
  -  https://github.com/DavidChoi76/pyhydroqc.git
+13. Precipitation Forecast
+ - https://github.com/DavidChoi76/DeepPrecip.git
+
+14. Climate Change
+ - https://github.com/DavidChoi76/CCdownscaling.git
+ 
+15. River Analysis
+  - https://github.com/DavidChoi76/river-dl.git
  
 ## :nerd_face: Links :thinking:
 1. Dissertation (https://doi.org/10.18130/g9tg-0c69)
@@ -62,18 +85,65 @@ I did my PhD from 2017 to 2021 at UVA Hydroinformatics research group (https://u
 7. Deep learning Education
  - https://github.com/DavidChoi76/course22.git
  - https://github.com/DavidChoi76/master.git
+ - https://github.com/DavidChoi76/AdvancedML.git
+ - https://github.com/DavidChoi76/Retraining_Notebook.git
+ - https://github.com/fastai/course22.git
 8. Geostatistical toolbox: https://github.com/DavidChoi76/GSTools.git
 9. Visualization
  - https://github.com/DavidChoi76/chart-challenge-22.git
+ - https://github.com/DavidChoi76/dash-dbx-sql-realtime.git
 10. Satellite Image
  - https://github.com/DavidChoi76/satellite-image-deep-learning.git
  - https://github.com/DavidChoi76/EASYMORE.git
  - https://github.com/DavidChoi76/Satip.git
+11. Network Science
+ - https://github.com/DavidChoi76/FirstCourseNetworkScience.git
+
+12. NeRF
+ - https://github.com/DavidChoi76/LargeScaleNeRFPytorch.git
+ - https://github.com/DavidChoi76/awesome-NeRF.git
+ - https://github.com/DavidChoi76/NeRF-Factory.git
+ - https://github.com/DavidChoi76/nerfstudio.git
+
+13. NLP for Korean
+ - https://github.com/DavidChoi76/KoELECTRA.git
 
 ## :nerd_face: Sharing :thinking:
 1. Hugging face
  - scikit-learn: https://github.com/DavidChoi76/skops.git
+2. AWS SageMaker
+ - https://github.com/DavidChoi76/studio-lab-examples.git
+
+3. GCP Vertex AI
+ - https://github.com/DavidChoi76/vertex-ai-mlops.git
+
+4. Google Research
+ - https://github.com/DavidChoi76/google-research.git
+
+5. Africa Rainfall Retrieval
+ - https://github.com/DavidChoi76/SWIFT_RF_Rainfall.git
+
+6. Python for Microscopists
+ - https://github.com/DavidChoi76/python_for_microscopists.git
+ 
+7. Interpretable Machine Learning
+  - https://github.com/DavidChoi76/PiML-Toolbox.git
+ 
+8. PipeLine for ML
+  - https://github.com/DavidChoi76/ludwig.git
 
 ## :nerd_face: Focusing :thinking:
 1. TADA: Talk About Data Analytics https://github.com/tadatascience
 2. NLP study: https://github.com/DavidChoi76/2022_fall_nlp_do_it.git
+
+## :nerd_face: Models :thinking:
+1. https://github.com/DavidChoi76/SWAT.git
+2. https://github.com/DavidChoi76/pysumma.git
+3. https://github.com/DavidChoi76/MetSim-tutorial.git
+4. https://github.com/DavidChoi76/pipedream.git
+
+## :nerd_face: Spatial Data :thinking:
+1. https://github.com/DavidChoi76/opentopodata.git
+2. https://github.com/DavidChoi76/rabpro.git
+3. https://github.com/Servir-Mekong
+4. https://github.com/DavidChoi76/GSTools.git
