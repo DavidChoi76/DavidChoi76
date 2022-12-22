@@ -41,24 +41,28 @@ I did my PhD from 2017 to 2021 at UVA Hydroinformatics research group (https://u
  - https://github.com/DavidChoi76/Platypus.git
  - https://github.com/DavidChoi76/reinforcement-learning.git
  - https://github.com/DavidChoi76/skimo.git
- <Operation>
  - https://github.com/DavidChoi76/VICResOpt.git
+ 
 9. Neural Hydrology
  - https://github.com/DavidChoi76/Caravan.git
  - https://github.com/DavidChoi76/lstm-data-assimilation.git
  - https://github.com/DavidChoi76/neuralhydrology.git
+ 
 10. Flood
  - https://github.com/DavidChoi76/ml4floods.git
  - https://github.com/DavidChoi76/Flood-Detection-from-Images-using-Deep-Learning.git
  - https://github.com/DavidChoi76/atlantis.git
  - https://github.com/DavidChoi76/Global-Flood-Monitor.git
  - https://github.com/DavidChoi76/Multimodal-flood-tweet-classification.git
+ 
 11. Stormwater network
  - https://github.com/DavidChoi76/pipedream.git
  - https://github.com/DavidChoi76/pystorms.git
  - https://github.com/DavidChoi76/swmm_wq_rl.git
+ 
 12. Data Quality Control
  -  https://github.com/DavidChoi76/pyhydroqc.git
+ 
 13. Precipitation Forecast
  - https://github.com/DavidChoi76/DeepPrecip.git
 
