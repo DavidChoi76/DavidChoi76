@@ -108,6 +108,7 @@ I did my PhD from 2017 to 2021 at UVA Hydroinformatics research group (https://u
  - https://github.com/DavidChoi76/awesome-NeRF.git
  - https://github.com/DavidChoi76/NeRF-Factory.git
  - https://github.com/DavidChoi76/nerfstudio.git
+ - https://github.com/DavidChoi76/instant-ngp.git
 
 13. NLP for Korean
  - https://github.com/DavidChoi76/KoELECTRA.git
