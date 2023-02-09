@@ -152,3 +152,9 @@ I did my PhD from 2017 to 2021 at UVA Hydroinformatics research group (https://u
 2. https://github.com/DavidChoi76/rabpro.git
 3. https://github.com/Servir-Mekong
 4. https://github.com/DavidChoi76/GSTools.git
+
+## :nerd_face: RAT Research :thinking:
+1. https://github.com/DavidChoi76/rat-training-2022
+2. https://github.com/DavidChoi76/rat_v2
+3. https://github.com/DavidChoi76/rat-reservoir_assessment_tool
+4. https://github.com/DavidChoi76/cuahsi_data_viz_2022_project
