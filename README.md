@@ -158,3 +158,6 @@ I did my PhD from 2017 to 2021 at UVA Hydroinformatics research group (https://u
 2. https://github.com/DavidChoi76/rat_v2
 3. https://github.com/DavidChoi76/rat-reservoir_assessment_tool
 4. https://github.com/DavidChoi76/cuahsi_data_viz_2022_project
+
+## :nerd_face: UVA Study :thinking:
+https://github.com/DavidChoi76/handson-ml3
