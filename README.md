@@ -10,7 +10,7 @@ I did my PhD from 2017 to 2021 at the UVA Hydroinformatics research group (https
 These are my current research. :nerd_face: Focusing :thinking:
 
 1. 🔭 Application of neuralhydrology and other AI technologies for upstream and downstream analysis for dam operation
-- https://github.com/realtime-dam-operation-using-AI
+ - https://github.com/realtime-dam-operation-using-AI
   
 2. 🌱 Long-Term Water Demand Forecasting 
   
