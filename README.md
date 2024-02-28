@@ -7,7 +7,7 @@ Currently, I'm working at  K-water AI research Lab to apply AI in water resource
 
 I did my PhD from 2017 to 2021 at the UVA Hydroinformatics research group (https://uvahydroinformatics.org/team/) in University of Virginia (https://www.virginia.edu/). This is my Dissertation (https://doi.org/10.18130/g9tg-0c69), google scholar(https://scholar.google.com/citations?user=VCyCE5QAAAAJ&hl=en) and Resume(https://github.com/DavidChoi76/profile/blob/main/YD_Choi_17June2022.pdf)
 
-These are my current research. :nerd_face: Focusing :thinking:
+#### These are my current research. :nerd_face: Focusing :thinking:
 
 1. 🔭 Application of neuralhydrology and other AI technologies for upstream and downstream analysis for dam operation
  - https://github.com/realtime-dam-operation-using-AI
