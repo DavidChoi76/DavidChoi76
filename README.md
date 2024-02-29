@@ -21,3 +21,8 @@ I did my PhD from 2017 to 2021 at the UVA Hydroinformatics research group (https
 5. 🌱 Application of NeRF and 3DGS in Water Infrastructures
 
 6. 👯 Drought Quantification using Social data such as Newspapers
+
+
+#### Study for Deeper Understanding. :nerd_face: Focusing :thinking:
+
+1. Differentiable Modeling
