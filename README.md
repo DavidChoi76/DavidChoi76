@@ -26,3 +26,12 @@ I did my PhD from 2017 to 2021 at the UVA Hydroinformatics research group (https
 #### Study for Deeper Understanding. :nerd_face: Focusing :thinking:
 
 1. Differentiable Modeling
+
+
+### Study HydroMT. :nerd_face: Focusing :thinking:
+1. hydromt: https://github.com/DavidChoi76/hydromt
+2. hydromt_wflow
+3. hydromt_delwaq
+4. hydromt_sfincs
+5. hydromt_fiat
+6. hydromt_delft3dfm
