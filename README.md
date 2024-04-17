@@ -30,8 +30,8 @@ I did my PhD from 2017 to 2021 at the UVA Hydroinformatics research group (https
 
 ### Study HydroMT. :nerd_face: Focusing :thinking:
 1. hydromt: https://github.com/DavidChoi76/hydromt
-2. hydromt_wflow
-3. hydromt_delwaq
-4. hydromt_sfincs
-5. hydromt_fiat
-6. hydromt_delft3dfm
+3. hydromt_wflow: https://github.com/DavidChoi76/hydromt_wflow
+4. hydromt_delwaq: https://github.com/DavidChoi76/hydromt_delwaq
+5. hydromt_sfincs: https://github.com/DavidChoi76/hydromt_sfincs
+6. hydromt_fiat: https://github.com/DavidChoi76/hydromt_fiat
+7. hydromt_delft3dfm: https://github.com/DavidChoi76/hydromt_delft3dfm
