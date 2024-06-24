@@ -35,3 +35,6 @@ I did my PhD from 2017 to 2021 at the UVA Hydroinformatics research group (https
 5. hydromt_sfincs: https://github.com/DavidChoi76/hydromt_sfincs
 6. hydromt_fiat: https://github.com/DavidChoi76/hydromt_fiat
 7. hydromt_delft3dfm: https://github.com/DavidChoi76/hydromt_delft3dfm
+
+### Optimization :nerd_face: Focusing :thinking:
+1. scikit-opt: https://github.com/DavidChoi76/scikit-opt
