@@ -36,6 +36,12 @@ I did my PhD from 2017 to 2021 at the UVA Hydroinformatics research group (https
 5. hydromt_fiat: https://github.com/DavidChoi76/hydromt_fiat
 6. hydromt_delft3dfm: https://github.com/DavidChoi76/hydromt_delft3dfm
 
+### Study Computer Vision and Segmentation. :nerd_face: Focusing :thinking:
+1. Segmentation Anything
+2. Segmentation Anaything2
+3. YOLOv8
+
+
 
 ### Optimization :nerd_face: Focusing :thinking:
 1. scikit-opt: https://github.com/DavidChoi76/scikit-opt
