@@ -24,7 +24,6 @@ I did my PhD from 2017 to 2021 at the UVA Hydroinformatics research group (https
 
 
 ### Study for Deeper Understanding. :nerd_face: Focusing :thinking:
-
 1. Differentiable Modeling
 
 
@@ -37,15 +36,14 @@ I did my PhD from 2017 to 2021 at the UVA Hydroinformatics research group (https
 6. hydromt_delft3dfm: https://github.com/DavidChoi76/hydromt_delft3dfm
 
 ### Study Computer Vision and Segmentation. :nerd_face: Focusing :thinking:
-1. Segmentation Anything
-2. Segmentation Anaything2
-3. YOLOv8
-
-
+1. Segmentation Anything: https://github.com/DavidChoi76/segment-anything
+2. Segmentation Anaything2: https://github.com/DavidChoi76/segment-anything-2
+3. YOLOv8: https://github.com/DavidChoi76/ultralytics
+4. Awesome YOLO: https://github.com/DavidChoi76/awesome-yolo
+5. segmentation geospatial: https://github.com/DavidChoi76/segment-geospatial
 
 ### Optimization :nerd_face: Focusing :thinking:
 1. scikit-opt: https://github.com/DavidChoi76/scikit-opt
-
 
 ### Photogrammetry :nerd_face: Focusing :thinking:
 1. Photogrammetry: https://github.com/DavidChoi76/Photogrammetry-Guide
